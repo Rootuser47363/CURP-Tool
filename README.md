@@ -1,4 +1,4 @@
-# CURP Tool
+# CURP Tool Beta 
 
 CURP Tool es un script simple escrito en Bash que te permite calcular el dígito verificador de una CURP (Clave Única de Registro de Población) o revertir la CURP para obtener los datos de una persona a partir de la clave.
 
